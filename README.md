@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS & java.
 - 💞️ I’m looking to collaborate on front-end and java for back-end.
 - 📫 How to reach me:
-- my email: biancapeleao@gmail.com
+ my email: biancapeleao@gmail.com
 
 <!---
 
