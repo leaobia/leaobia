@@ -1,10 +1,7 @@
 ## 👩 Hi!
 
-Eu sou Bianca Leão
- 
-Estudante de Desenvolvimento de Sistemas
 
-Meu foco atualmente está em desenvolvimento web!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=CD6EE2&width=435&lines=Eu+sou+Bianca+Le%C3%A3o;Estudo+desenvolvimento+de+sistemas)](https://git.io/typing-svg)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaobia&show_icons=true&theme=tokyonight"/>
